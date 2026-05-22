@@ -61,6 +61,3 @@ The repository includes derived tables sufficient to audit the main plotted resu
 
 When submitting, cite the exact DepMap release used in the manuscript and include the DepMap portal URL. The current manuscript cites DepMap Public 24Q4; if analyses are refreshed to another release, update the release citation in the manuscript bibliography and Methods.
 
-## Manuscript status
-
-This cleaned repository is intended for peer-review transparency and does not include the article source. The Overleaf-ready manuscript package is maintained separately. The original analyses were developed in notebooks, with publication figures consolidated into scripts for reproducibility.

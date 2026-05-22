@@ -1,4 +1,4 @@
-Derived tables included for transparency and manuscript reproduction.
+Derived tables included for transparency and article reproduction.
 
 - `source_tnbc_core_gsea_nes.csv`: normalised enrichment scores used for the TNBC pathway panel.
 - `source_tnbc_core_gsea_fdr.csv`: adjusted p-values used for the TNBC pathway panel.

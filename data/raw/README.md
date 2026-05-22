@@ -29,4 +29,4 @@ This creates `counts.txt`, `genes.txt`, and `metadata.txt` for the requested
 project. Intermediate downloaded GDC files are placed under
 `data/<TCGA-project>/download_data/`.
 
-The manuscript cites DepMap Public 24Q4. If a newer release is used, update both the manuscript methods and bibliography.
+The article  cites DepMap Public 24Q4. 
