@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+data/raw/*
+!data/raw/README.md
+data/TCGA-*/download_data/
+data/TCGA-*/treated_files/
+manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.fdb_latexmk
+manuscript/*.fls
+manuscript/*.log
+manuscript/*.out
+manuscript/*.synctex.gz

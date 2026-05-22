@@ -1,0 +1,9 @@
+cohort,transcript_group,mean_tpm,percent_total
+TCGA BRCA TNBC,ATIP1,4.05,35.6
+TCGA BRCA TNBC,ATIP3a_total,5.8,51.0
+TCGA BRCA TNBC,ATIP3b_total,1.43,12.6
+TCGA BRCA TNBC,ATIP4,0.09,0.8
+TNBC cell lines,ATIP1,0.12,4.5
+TNBC cell lines,ATIP3a_total,2.01,72.9
+TNBC cell lines,ATIP3b_total,0.62,22.4
+TNBC cell lines,ATIP4,0.006,0.2
